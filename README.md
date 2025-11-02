@@ -22,6 +22,12 @@ I have an interest in numerical programming for applied mathematics and quantum 
 
 ---
 
+### ⚙️ High-Performance & Parallel Computing
+![OpenMP](https://img.shields.io/badge/OpenMP-003B57?style=for-the-badge&logo=openmp&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+---
+
 ### ⚙️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
