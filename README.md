@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Snake animation](https://raw.githubusercontent.com/Tangy-Cheese/Tangy-Cheese/output/dist/snake.svg)
 
 <!--
 **Tangy-Cheese/Tangy-Cheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
