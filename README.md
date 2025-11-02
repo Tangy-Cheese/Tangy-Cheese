@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using Python and C for numerical programming and quantum-physics based simulations.
+I'm using Python and C/C++ for numerical programming and quantum-physics based simulations.
 
 
 <picture>
