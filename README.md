@@ -2,9 +2,9 @@
 
 I have an interest in numerical programming for applied mathematics and quantum physics.
 
-## 🧠 Languages & Tools I know/am learning
+## Languages & Tools I know/am learning
 
-### 🐍 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -13,7 +13,7 @@ I have an interest in numerical programming for applied mathematics and quantum 
 
 ---
 
-### 🧰 Scientific & Numerical Libraries
+### Scientific & Numerical Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,19 +23,19 @@ I have an interest in numerical programming for applied mathematics and quantum 
 
 ---
 
-### ⚙️ High-Performance & Parallel Computing
+### High-Performance & Parallel Computing
 ![OpenMP](https://img.shields.io/badge/OpenMP-003B57?style=for-the-badge&logo=openmp&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
-### ⚙️ Development Tools
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🌐 Web Stack
+### Web Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
