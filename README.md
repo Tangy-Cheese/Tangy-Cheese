@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings,
 
 I have an interest in numerical programming for applied mathematics and quantum physics.
 
